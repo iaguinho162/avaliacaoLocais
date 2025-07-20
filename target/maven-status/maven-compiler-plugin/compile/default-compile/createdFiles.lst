@@ -1,0 +1,9 @@
+seminarioP\main.class
+model\dao\AvaliacaoDAO.class
+conexao\Conexao.class
+seminarioP\administrador.class
+seminarioP\avaliacao.class
+seminarioP\local.class
+model\dao\Cadastro_usuario_Dao.class
+seminarioP\usuario.class
+model\dao\LocalizacaoDAO.class
